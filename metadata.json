@@ -1,0 +1,5 @@
+{
+  "name": "InsightAI - Conversational BI",
+  "description": "A natural language Business Intelligence tool. Connect to your data, ask questions in plain English, and get instant visualizations, SQL generation, and predictive insights.",
+  "requestFramePermissions": []
+}
